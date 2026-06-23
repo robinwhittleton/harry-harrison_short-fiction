@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="the-k-factor.xhtml">
+		<ignore code="t-030">
+			<line>32</line>
+			<line>33</line>
+			<line>41</line>
+			<line>42</line>
+			<line>44</line>
+			<line>45</line>
+			<line>83</line>
+			<line>139</line>
+			<line>150</line>
+			<line>175</line>
+			<line>184</line>
+			<reason>UN is an abbreviation commonly without full stops.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
