@@ -35,6 +35,21 @@
 		<dc:subject id="subject-2">Short stories</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85121813</meta>
+		<dc:subject id="subject-3">Painters--Fiction</dc:subject>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008108758</meta>
+		<dc:subject id="subject-4">Robots--Fiction</dc:subject>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008110972</meta>
+		<dc:subject id="subject-5">Human-alien encounters--Fiction</dc:subject>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008105650</meta>
+		<dc:subject id="subject-6">Mars (Planet)--Fiction</dc:subject>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008115817</meta>
+		<dc:subject id="subject-7">Alternative histories (Fiction)</dc:subject>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2005000827</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
